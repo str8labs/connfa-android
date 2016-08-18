@@ -1,6 +1,6 @@
 package com.ls.ui.fragment;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.model.EventGenerator;
 import com.ls.drupalcon.model.PreferencesManager;
 import com.ls.drupalcon.model.data.Event;

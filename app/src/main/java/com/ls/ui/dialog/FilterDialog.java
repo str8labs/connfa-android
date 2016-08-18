@@ -1,6 +1,6 @@
 package com.ls.ui.dialog;
 
-import com.ls.drupalcon.R;
+import  de.str8labs.vif16.R;
 import com.ls.drupalcon.model.PreferencesManager;
 import com.ls.drupalcon.model.data.Level;
 import com.ls.drupalcon.model.data.Track;

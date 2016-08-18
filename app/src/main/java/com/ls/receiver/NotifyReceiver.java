@@ -1,7 +1,7 @@
 package com.ls.receiver;
 
 import android.support.v4.app.NotificationCompat;
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.ui.activity.EventDetailsActivity;
 import com.ls.ui.activity.HomeActivity;
 import com.ls.utils.AlarmTask;

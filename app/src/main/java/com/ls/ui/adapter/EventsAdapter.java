@@ -1,6 +1,6 @@
 package com.ls.ui.adapter;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.app.App;
 import com.ls.drupalcon.model.data.Event;
 import com.ls.drupalcon.model.data.Level;

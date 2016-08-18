@@ -1,6 +1,6 @@
 package com.ls.utils;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.model.data.EventDetailsEvent;
 import com.ls.receiver.NotifyReceiver;
 

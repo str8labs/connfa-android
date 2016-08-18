@@ -2,7 +2,7 @@ package com.ls.drupalcon.model.data;
 
 import com.google.gson.annotations.SerializedName;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.model.database.AbstractEntity;
 import com.ls.utils.CursorParser;
 

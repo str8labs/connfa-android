@@ -1,6 +1,6 @@
 package com.ls.ui.dialog;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

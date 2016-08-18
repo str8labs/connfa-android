@@ -2,7 +2,7 @@ package com.ls.ui.activity;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
 
-import com.ls.drupalcon.R;
+import  de.str8labs.vif16.R;
 import com.ls.drupalcon.app.App;
 import com.ls.drupalcon.model.Model;
 import com.ls.drupalcon.model.UpdatesManager;

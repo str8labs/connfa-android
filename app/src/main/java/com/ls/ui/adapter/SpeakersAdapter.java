@@ -1,6 +1,6 @@
 package com.ls.ui.adapter;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.model.data.Speaker;
 import com.ls.ui.fragment.SpeakersListFragment;
 import com.ls.ui.view.CircleImageView;

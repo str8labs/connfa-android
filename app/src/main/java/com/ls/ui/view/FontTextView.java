@@ -9,7 +9,7 @@ import android.content.Context;
 import android.content.res.TypedArray;
 import android.util.AttributeSet;
 import android.widget.TextView;
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 
 public class FontTextView extends TextView {
 

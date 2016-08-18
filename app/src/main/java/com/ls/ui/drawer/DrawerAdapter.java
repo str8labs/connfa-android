@@ -1,6 +1,6 @@
 package com.ls.ui.drawer;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.app.App;
 
 import android.content.Context;

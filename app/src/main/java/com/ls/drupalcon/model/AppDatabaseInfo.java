@@ -1,6 +1,6 @@
 package com.ls.drupalcon.model;
 
-import com.ls.drupalcon.R;
+import de.str8labs.vif16.R;
 import com.ls.drupalcon.model.dao.EventDao;
 import com.ls.drupalcon.model.dao.InfoDao;
 import com.ls.drupalcon.model.dao.LevelDao;
