@@ -13,7 +13,7 @@
         android:required="true" />
 
     <application
-        android:name="com.ls.drupalcon.app.App"
+        android:name="de.str8labs.vif16.App"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"

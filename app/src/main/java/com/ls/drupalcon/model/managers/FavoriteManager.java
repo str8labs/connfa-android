@@ -1,6 +1,6 @@
 package com.ls.drupalcon.model.managers;
 
-import com.ls.drupalcon.app.App;
+import de.str8labs.vif16.App;
 import com.ls.drupalcon.model.dao.EventDao;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.ls.drupalcon.model;
 
 import de.str8labs.vif16.R;
-import com.ls.drupalcon.app.App;
+import de.str8labs.vif16.App;
 import com.ls.drupalcon.model.data.Event;
 import com.ls.drupalcon.model.data.Speaker;
 import com.ls.drupalcon.model.data.TimeRange;

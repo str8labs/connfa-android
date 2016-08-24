@@ -1,4 +1,4 @@
-package com.ls.drupalcon.app;
+package de.str8labs.vif16;
 
 import android.app.Application;
 import android.content.Context;

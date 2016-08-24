@@ -1,7 +1,7 @@
 package com.ls.ui.adapter;
 
 import de.str8labs.vif16.R;
-import com.ls.drupalcon.app.App;
+import de.str8labs.vif16.App;
 import com.ls.drupalcon.model.data.Event;
 import com.ls.drupalcon.model.data.Level;
 import com.ls.drupalcon.model.data.Type;
@@ -18,7 +18,6 @@ import android.content.Context;
 import android.graphics.Color;
 import android.support.annotation.Nullable;
 import android.text.TextUtils;
-import android.text.format.DateFormat;
 import android.util.TypedValue;
 import android.view.LayoutInflater;
 import android.view.View;
